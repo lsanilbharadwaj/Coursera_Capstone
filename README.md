@@ -9,3 +9,7 @@ This project consist of several parts divided in two different notebooks.
 # Feauter Selection
 This first notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following kaggle page. The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
 # Predicting Traffic Accident Severity
+- Data Description
+- Data Cleaning
+- Exploratory Data Analysis
+- Model Development
